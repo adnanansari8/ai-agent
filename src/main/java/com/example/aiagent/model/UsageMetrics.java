@@ -1,4 +1,4 @@
-package com.example.aiagent.dto;
+package com.example.aiagent.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,7 +1,7 @@
 package com.example.aiagent.repository;
 
 
-import com.example.aiagent.dto.UsageMetrics;
+import com.example.aiagent.model.UsageMetrics;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

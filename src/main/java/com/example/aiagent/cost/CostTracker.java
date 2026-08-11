@@ -1,6 +1,6 @@
 package com.example.aiagent.cost;
 
-import com.example.aiagent.dto.UsageMetrics;
+import com.example.aiagent.model.UsageMetrics;
 import com.example.aiagent.repository.UsageMetricsRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
